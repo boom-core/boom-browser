@@ -1,0 +1,18 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_system_sdk/public",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "android-stubs-src.jar",
+      "size": 7195682,
+      "hash": "j85AZdPETwNOyce5cFQK359LIswAMpbSDF8OJ7LoA9IC"
+    },
+    {
+      "name": "android_system.jar",
+      "size": 64651537,
+      "hash": "9D6dro2hKS58Lxo1vqDuscUk3PvdT4ow3-ZxzpgiI1sC"
+    }
+  ]
+}

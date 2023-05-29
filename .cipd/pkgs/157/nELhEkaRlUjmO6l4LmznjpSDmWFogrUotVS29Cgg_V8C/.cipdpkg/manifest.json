@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_ow2_asm_asm_tree",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "asm-tree-9.2.jar",
+      "size": 52660,
+      "hash": "qr-b0jCRpOv8EJwfPufPPkuJ9rotP1HFJD8Ws8_64BEC"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/net_bytebuddy_byte_buddy",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "byte-buddy-1.12.22.jar",
+      "size": 3913186,
+      "hash": "yGb_B30PAPl66RoH78-aPXqBXbSpHRWo6Fc1nf0SsDwC"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/rbe/client/linux-amd64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "size": 79533,
+      "hash": "mg9YaEEiqceWNeZ-UV4Jj6nrpLY_z1bUT5Mp14Gpdv0C"
+    },
+    {
+      "name": "LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "NOTICE",
+      "size": 6808,
+      "hash": "qRjF8Ls1dY-YIpgTfxjowuLiK6UBpTgLGxHkOosrhJ8C"
+    },
+    {
+      "name": "bootstrap",
+      "size": 20267833,
+      "executable": true,
+      "hash": "L0HNyfBueJXzN1AWUczzA0mBQD10t-3xQXDx0lr9Hl4C"
+    },
+    {
+      "name": "dumpstats",
+      "size": 12720861,
+      "executable": true,
+      "hash": "V2COuhrHZ0WXfQI9_sMr43EibsKvlELg3kIO6aJW_sYC"
+    },
+    {
+      "name": "logdump",
+      "size": 12495159,
+      "executable": true,
+      "hash": "WPfOzkbwkrJbpy-Pcx1MdoHklxBTWTQTx9fTqe1geg4C"
+    },
+    {
+      "name": "reproxy",
+      "size": 41590696,
+      "executable": true,
+      "hash": "Okg4_wE8cGankPkHE7RgeMrLFoKKP7XvVj9bz0p5jzYC"
+    },
+    {
+      "name": "reproxystatus",
+      "size": 12057417,
+      "executable": true,
+      "hash": "N2oJKiab4VllRVkwsFIwihnV5DVQx_5Zt2bOWH-oj54C"
+    },
+    {
+      "name": "rewrapper",
+      "size": 12545250,
+      "executable": true,
+      "hash": "FT9c8GBEIzGqyrqLhfiF04nVWGarTV5DPmLGCcS2UjwC"
+    },
+    {
+      "name": "rpl2cloudtrace",
+      "size": 16001455,
+      "executable": true,
+      "hash": "KZ5m09S1CX47q6zUqVdMZV5Hwo3LaupYXdu_0dqqVaMC"
+    },
+    {
+      "name": "rpl2trace",
+      "size": 12527955,
+      "executable": true,
+      "hash": "TF1x9KLtOon2ANRRCfDOrcybe33eRmC4ZIwbdf4r7Y8C"
+    },
+    {
+      "name": "scandeps_server",
+      "size": 8930344,
+      "executable": true,
+      "hash": "lVGnirMpRlawbygF_p-fDVYam2wMeaZ51y7aaJ3cCLcC"
+    },
+    {
+      "name": "scandeps_server.sym",
+      "size": 22215958,
+      "hash": "nIREdMDMMPCHCIrZfKt21YBurpeyQABwIh54Ugxf_2YC"
+    }
+  ]
+}

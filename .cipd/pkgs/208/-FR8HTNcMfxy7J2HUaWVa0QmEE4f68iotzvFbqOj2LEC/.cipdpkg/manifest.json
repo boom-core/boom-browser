@@ -1,0 +1,2278 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/jdk",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "current/NOTICE",
+      "size": 2439,
+      "hash": "sB4yaxTuC_zuyyYTckigCTeX-VgTRRGDpQfheeDBlVwC"
+    },
+    {
+      "name": "current/bin/jar",
+      "size": 16336,
+      "executable": true,
+      "hash": "iI4zy87ds2Y3-hTz8dUqfuGw5mVF8D_TXEOluigzR78C"
+    },
+    {
+      "name": "current/bin/jarsigner",
+      "size": 16336,
+      "executable": true,
+      "hash": "lu-ouYcCszoaaLlcr5fV-nzotlGF4PAk5AQ2IyGvJIkC"
+    },
+    {
+      "name": "current/bin/java",
+      "size": 16320,
+      "executable": true,
+      "hash": "Fx0e5K6qdCcoMVE0YXVS4olQS3BxJwCs31UnnU9r19wC"
+    },
+    {
+      "name": "current/bin/javac",
+      "size": 16368,
+      "executable": true,
+      "hash": "vCcv4lrKplwzHlBlXRsP7ibRcKJtk_vXLcxH3q65IuoC"
+    },
+    {
+      "name": "current/bin/javadoc",
+      "size": 16368,
+      "executable": true,
+      "hash": "Tup8GeByA8m9NuWLZrq2Tk8wDJXmhYxvOVOxM99HyXEC"
+    },
+    {
+      "name": "current/bin/javap",
+      "size": 16336,
+      "executable": true,
+      "hash": "9U6M5vrpf0euJ9504Gz1uMy09LxTPAdkFDMf-wjPVpQC"
+    },
+    {
+      "name": "current/bin/jcmd",
+      "size": 16336,
+      "executable": true,
+      "hash": "G2d8aKtPdCjXY4pgcB664KZLDn1yY3o05NM6qr88PckC"
+    },
+    {
+      "name": "current/bin/jconsole",
+      "size": 16400,
+      "executable": true,
+      "hash": "pM-o1GhKjEkxSvXwiC-UeX1KlTjhHUkzNngg3x5Q_-0C"
+    },
+    {
+      "name": "current/bin/jdb",
+      "size": 16336,
+      "executable": true,
+      "hash": "s7CcWJFG8HjCXVkhdtPkDm0E8hSsFNqnA1wiabutPxMC"
+    },
+    {
+      "name": "current/bin/jdeprscan",
+      "size": 16336,
+      "executable": true,
+      "hash": "h5B6JMcyAPxKmeja3ytCaC2HXOG_9SLDQaPU4PHXdm8C"
+    },
+    {
+      "name": "current/bin/jdeps",
+      "size": 16336,
+      "executable": true,
+      "hash": "Z1tQNHncIoqTEB1yQfwWb03m5ah1Aotw8j5I_dJux60C"
+    },
+    {
+      "name": "current/bin/jfr",
+      "size": 16336,
+      "executable": true,
+      "hash": "v058nVWRQAsdi5UCY_18DwdltYxK2N88T2AqrgOQqiEC"
+    },
+    {
+      "name": "current/bin/jhsdb",
+      "size": 16336,
+      "executable": true,
+      "hash": "bx9LB4hO7csVqY788sDFnifRl4QdAUIrOpt02DqvPs4C"
+    },
+    {
+      "name": "current/bin/jimage",
+      "size": 16336,
+      "executable": true,
+      "hash": "rM2s4lo2tlcKM-Hp95If6YRdwlZ60rlZVgK_Llc-L5oC"
+    },
+    {
+      "name": "current/bin/jinfo",
+      "size": 16368,
+      "executable": true,
+      "hash": "uhdSQKrHWxesLLoLifkE93ixone_tCUUf7H4QW9Bm8YC"
+    },
+    {
+      "name": "current/bin/jlink",
+      "size": 16368,
+      "executable": true,
+      "hash": "48J4WdDr1KP8TA6YOE01BDZPMYNhWyrDYLAJ0JG6Q_EC"
+    },
+    {
+      "name": "current/bin/jmap",
+      "size": 16368,
+      "executable": true,
+      "hash": "Tp9PadHRc9MjX6Ob-g2zkVPN1A-vgiwIRZJxrjmJ5D0C"
+    },
+    {
+      "name": "current/bin/jmod",
+      "size": 16336,
+      "executable": true,
+      "hash": "ROgBZ-An_d7hjnJgsOAxfkObNvHbQyjDsiSwx7-LstAC"
+    },
+    {
+      "name": "current/bin/jpackage",
+      "size": 16336,
+      "executable": true,
+      "hash": "LCyrlkrhjiU3N4Ty3C8Em4CHkfmIpvkt1dB1cl_5Xh0C"
+    },
+    {
+      "name": "current/bin/jps",
+      "size": 16336,
+      "executable": true,
+      "hash": "TBtJDMkb6sllqMHrdmibi-D8v9a71dQbh32a1fOdLz0C"
+    },
+    {
+      "name": "current/bin/jrunscript",
+      "size": 16376,
+      "executable": true,
+      "hash": "fycXiC2YTamcugtGW2p6ZjX2ozXLQte73KXd4Rzm5PQC"
+    },
+    {
+      "name": "current/bin/jshell",
+      "size": 16336,
+      "executable": true,
+      "hash": "-lcCA-3xfg0SgRq-EowksyLJpzZtduD_qY5sRTH9aXgC"
+    },
+    {
+      "name": "current/bin/jstack",
+      "size": 16368,
+      "executable": true,
+      "hash": "fEUNjlPILulC7jgyghwItdCoD9ICWxVM8IwOj8bkgB0C"
+    },
+    {
+      "name": "current/bin/jstat",
+      "size": 16336,
+      "executable": true,
+      "hash": "b1JkpIowA1B_s8anJY_9EqzW-TcqD9A7kUtl0PlHhOkC"
+    },
+    {
+      "name": "current/bin/jstatd",
+      "size": 16336,
+      "executable": true,
+      "hash": "lth9LBO8erLG5-6212IYza4wws3pNzSoAqJ4GXiOInkC"
+    },
+    {
+      "name": "current/bin/keytool",
+      "size": 16336,
+      "executable": true,
+      "hash": "QIZKZ6d5zS3UikPFHC2_K5fY4anS-LAgf5c6Vc-n75QC"
+    },
+    {
+      "name": "current/bin/rmiregistry",
+      "size": 16344,
+      "executable": true,
+      "hash": "Tamuq9H7OY4mcU2CjZblYYBsKNWh4wfDad9ngh_E_BAC"
+    },
+    {
+      "name": "current/bin/serialver",
+      "size": 16336,
+      "executable": true,
+      "hash": "AlYmzE7WpwlWJyqFyLUOdIg4PB-L2yrSHcFNkKQMi1IC"
+    },
+    {
+      "name": "current/conf/logging.properties",
+      "size": 2732,
+      "hash": "ti0nM6uZVWsQihlR2JTFqNdrGsegDALDiPnrm-BGxW8C"
+    },
+    {
+      "name": "current/conf/management/jmxremote.access",
+      "size": 3997,
+      "hash": "DCXSbuISyh6MM_Z8PEYNQ_6EnDodI9vjQRSFF2ArKAwC"
+    },
+    {
+      "name": "current/conf/management/jmxremote.password.template",
+      "size": 5690,
+      "hash": "AnO2prniDmzlTFrucBZAKOA5UGOyt9OQYKQLZJVUPb8C"
+    },
+    {
+      "name": "current/conf/management/management.properties",
+      "size": 14410,
+      "hash": "-ACW7AKNy3FiXDmOwW0SAjyvxqHAVazq7QfQLo1W9jcC"
+    },
+    {
+      "name": "current/conf/net.properties",
+      "size": 6608,
+      "hash": "qI7rVsYcDfecjQAKQ94Q26SMdxMMitoa-ULJqM4pp4cC"
+    },
+    {
+      "name": "current/conf/sdp/sdp.conf.template",
+      "size": 1455,
+      "hash": "6UQeUfDSniUxPTOpAFZA8RrZPCfwG8RqNL8C8qmP_WsC"
+    },
+    {
+      "name": "current/conf/security/java.policy",
+      "size": 2180,
+      "hash": "8qAKHew7egl_CBXzOKhHF7oQF9XXqulthC0hiNZ8MlAC"
+    },
+    {
+      "name": "current/conf/security/java.security",
+      "size": 57015,
+      "hash": "-kix5FUIt7adthcrQhNuf3yIiKaLSCWpmu_XpdyL5K8C"
+    },
+    {
+      "name": "current/conf/security/policy/README.txt",
+      "size": 2390,
+      "hash": "baB0czSw_qdZL9kmFLK7yLEmU14Smx_uSDd02RTpjrUC"
+    },
+    {
+      "name": "current/conf/security/policy/limited/default_US_export.policy",
+      "size": 146,
+      "hash": "dYuTClJvxnCrdTf4wmMhUnBQox9fQhSaLdpiPFagoakC"
+    },
+    {
+      "name": "current/conf/security/policy/limited/default_local.policy",
+      "size": 647,
+      "hash": "KyYnVI5hMWFQ1H_8PmytRlygWzzM1Hhet9Iap7qg9EEC"
+    },
+    {
+      "name": "current/conf/security/policy/limited/exempt_local.policy",
+      "size": 566,
+      "hash": "jD12SKvNlaJyzhLbhwCCk39Nf2h41zDYPLf7sx64sskC"
+    },
+    {
+      "name": "current/conf/security/policy/unlimited/default_US_export.policy",
+      "size": 146,
+      "hash": "dYuTClJvxnCrdTf4wmMhUnBQox9fQhSaLdpiPFagoakC"
+    },
+    {
+      "name": "current/conf/security/policy/unlimited/default_local.policy",
+      "size": 193,
+      "hash": "jYoxjm2Q39fiZhLStjhapwT2hsphNMVR-JKEGNkrhRoC"
+    },
+    {
+      "name": "current/conf/sound.properties",
+      "size": 1210,
+      "hash": "KZwjYLYVXrKJkOxJzSF1P5fkNEL-j6sD4E8-IT30OmYC"
+    },
+    {
+      "name": "current/include/classfile_constants.h",
+      "size": 22155,
+      "hash": "OJRFdy93g_UynRZmYhuVyzPz6zCzNr1H_gersOH0etgC"
+    },
+    {
+      "name": "current/include/jawt.h",
+      "size": 12458,
+      "hash": "hRAdB5KKWJrM_vnXwmGFD6qNWvyO8mKvfslzQAj28vUC"
+    },
+    {
+      "name": "current/include/jdwpTransport.h",
+      "size": 8151,
+      "hash": "m4zLtX4I-hDAwYOEPspOVyZ_TPZbo8RPi_vmlDhfCloC"
+    },
+    {
+      "name": "current/include/jni.h",
+      "size": 75678,
+      "hash": "Emaupbn11dsctvjlxsQ8-n-AvE9y1_5CxhMbuTnccPQC"
+    },
+    {
+      "name": "current/include/jvmti.h",
+      "size": 81725,
+      "hash": "lbIMWMo7lr9qKME2MvZxs_h9WSPAM4AS4NkLpM8VfikC"
+    },
+    {
+      "name": "current/include/jvmticmlr.h",
+      "size": 4771,
+      "hash": "buPlLSS9tPTQMS37qz1HvVJMvaxVQKTXkMrAYgxZs8gC"
+    },
+    {
+      "name": "current/include/linux/jawt_md.h",
+      "size": 1965,
+      "hash": "ZW0Kks0HdPrLeWYqJh7JYEPyhOFFzk-P3h4I6OKHddIC"
+    },
+    {
+      "name": "current/include/linux/jni_md.h",
+      "size": 2208,
+      "hash": "iMtcM-MGkA3TWnjVpDkIcSO46RsJhrtay0LMm9L8xC4C"
+    },
+    {
+      "name": "current/jmods/java.base.jmod",
+      "size": 22060759,
+      "hash": "ZtMmup9arrcLmkFEa4XCXFt8DzBM24O8RJif6m72TZoC"
+    },
+    {
+      "name": "current/jmods/java.compiler.jmod",
+      "size": 130564,
+      "hash": "pSGoKHY1QJIZlBULOjrAXgFAWr82LFCyvlfwh3je8ykC"
+    },
+    {
+      "name": "current/jmods/java.datatransfer.jmod",
+      "size": 59128,
+      "hash": "3da7PAeehgBqD5MQijwO7gvNwlHZ-PwPYitQ88tKz1wC"
+    },
+    {
+      "name": "current/jmods/java.desktop.jmod",
+      "size": 13724668,
+      "hash": "W8gnIiwIJSICACcEWfsfO7ylmfy67Y6yafAqb53j_BsC"
+    },
+    {
+      "name": "current/jmods/java.instrument.jmod",
+      "size": 46608,
+      "hash": "IDHXEYFr_yCy-fiOSeJwSmgv_qAQAFIg10j9ioscgD0C"
+    },
+    {
+      "name": "current/jmods/java.logging.jmod",
+      "size": 128134,
+      "hash": "XTCTTy3NMdwktgi765oE2M7YZpcoel7sUKRpBfr3BQQC"
+    },
+    {
+      "name": "current/jmods/java.management.jmod",
+      "size": 902981,
+      "hash": "qEJqHU0aciwhWLgwdHPxARiV6E7GTvJsxhUCcpsYFq0C"
+    },
+    {
+      "name": "current/jmods/java.management.rmi.jmod",
+      "size": 99799,
+      "hash": "N2pOy9L2mdzcqgztAU3ZJkmy65xRgB5OFJFNhnT5JDYC"
+    },
+    {
+      "name": "current/jmods/java.naming.jmod",
+      "size": 474666,
+      "hash": "AG6uwrMCqyAoWrHFmXEZQjq187y5pWbRRirmE9_YR1QC"
+    },
+    {
+      "name": "current/jmods/java.net.http.jmod",
+      "size": 745518,
+      "hash": "UjRSxiWRx18kLQNUK7qHMjxiRDNy6AXidyhSYxLBylAC"
+    },
+    {
+      "name": "current/jmods/java.prefs.jmod",
+      "size": 69371,
+      "hash": "4lUrn3lao1pLC1Jqc0971yIoZ455DI6JE_AnYhDit_oC"
+    },
+    {
+      "name": "current/jmods/java.rmi.jmod",
+      "size": 272104,
+      "hash": "P2dElc_lXZOKIcdoqXzX2psmInITikE8qh-sT_MQdBYC"
+    },
+    {
+      "name": "current/jmods/java.scripting.jmod",
+      "size": 48140,
+      "hash": "vhw6Rq3U33uLyBc0ExvL_4q-z22xrAaXRV7DqBwTB54C"
+    },
+    {
+      "name": "current/jmods/java.se.jmod",
+      "size": 9859,
+      "hash": "_NHv4eQKLyP8Bl_tc3F0FVTT4ZlnFagFUzsN6W5NEh4C"
+    },
+    {
+      "name": "current/jmods/java.security.jgss.jmod",
+      "size": 617949,
+      "hash": "F204bTkmPIRZ0DpenFh2knJ2m2qqFbefyvUdQHpxGPcC"
+    },
+    {
+      "name": "current/jmods/java.security.sasl.jmod",
+      "size": 89344,
+      "hash": "-4ZDi2Zk_bUbVIFagTJ75wdJwSwU6eB0VTShvs0RMn4C"
+    },
+    {
+      "name": "current/jmods/java.smartcardio.jmod",
+      "size": 63304,
+      "hash": "k_-zz3dhyEM3zqDMK2EqFTkS6i9nK7iEAomYrhR8ZcoC"
+    },
+    {
+      "name": "current/jmods/java.sql.jmod",
+      "size": 83673,
+      "hash": "6AbFUPB0UbLWhbhZ3qgmsw2_pLF42Rz7Y30SK7XEskMC"
+    },
+    {
+      "name": "current/jmods/java.sql.rowset.jmod",
+      "size": 221230,
+      "hash": "o0uDhEqgse2og9ZNFfSL1nJYql2vCdtHN3ml2f3PPLUC"
+    },
+    {
+      "name": "current/jmods/java.transaction.xa.jmod",
+      "size": 11686,
+      "hash": "gQb3ExvM4wEOQTHCLOgeL9NPgXoDBG74334fznQ-soYC"
+    },
+    {
+      "name": "current/jmods/java.xml.crypto.jmod",
+      "size": 677735,
+      "hash": "Otrn462WClPepDkXgF7BIYcw8wHO5rvksnZFiKhkqfIC"
+    },
+    {
+      "name": "current/jmods/java.xml.jmod",
+      "size": 5208767,
+      "hash": "nfEBnbgXdRpmHuX3tTqxaNL1bf9RxP4gNmQzlNdFIswC"
+    },
+    {
+      "name": "current/jmods/jdk.accessibility.jmod",
+      "size": 58043,
+      "hash": "4dkfC8xgWXBgQy_QDkaYNuR2lcqSzr2ZEZbxPQWdzZQC"
+    },
+    {
+      "name": "current/jmods/jdk.attach.jmod",
+      "size": 38011,
+      "hash": "kHRQRzYRZIQQHI0ZmHW_eHZiweAYyf82cow-zijLJxMC"
+    },
+    {
+      "name": "current/jmods/jdk.charsets.jmod",
+      "size": 1197716,
+      "hash": "pxtpLFMsK54WULMfIDj6ScgYI-B-HLv_hPx_3m7qQKgC"
+    },
+    {
+      "name": "current/jmods/jdk.compiler.jmod",
+      "size": 9246460,
+      "hash": "g4ttoyQnU8Yp3gN5xGCUTEf3saLS2rO6LCQTtMJupngC"
+    },
+    {
+      "name": "current/jmods/jdk.crypto.cryptoki.jmod",
+      "size": 379563,
+      "hash": "GMdSqVJg2DBzUvhLpuIcEQghQwlRa3UYuWk_xCda3YMC"
+    },
+    {
+      "name": "current/jmods/jdk.crypto.ec.jmod",
+      "size": 138904,
+      "hash": "PoRsmoaPA6uTUrYT_5TIPn79xob1_EOou8Qj4ZsujCIC"
+    },
+    {
+      "name": "current/jmods/jdk.dynalink.jmod",
+      "size": 165924,
+      "hash": "47bf85iFWdROyzF6syQ1Jsl5z4IW7WfPAk6uSpNeG7wC"
+    },
+    {
+      "name": "current/jmods/jdk.editpad.jmod",
+      "size": 15297,
+      "hash": "SfLNZH25GR8UKq5CpmU8g5mk6Jml-8uJZh-vsfRZ5vcC"
+    },
+    {
+      "name": "current/jmods/jdk.hotspot.agent.jmod",
+      "size": 2306470,
+      "hash": "7PVCpBD0NwB47WAgGni0hbTl3IsA29GwH7T2kjzYGz0C"
+    },
+    {
+      "name": "current/jmods/jdk.httpserver.jmod",
+      "size": 114188,
+      "hash": "hFnjV4FORJyvDfXxx3IyF9Ka5iZJ1Wz0oTQymJqbGw0C"
+    },
+    {
+      "name": "current/jmods/jdk.incubator.foreign.jmod",
+      "size": 325175,
+      "hash": "HarTUS27Sn-ib85ujfeDsaLjCmRSKcg6GsWAncqxJ00C"
+    },
+    {
+      "name": "current/jmods/jdk.incubator.vector.jmod",
+      "size": 1070808,
+      "hash": "ZC7Yt3RjkvQEwDz_r6aOS_ORolGvM_3LbdBYL-mzr0MC"
+    },
+    {
+      "name": "current/jmods/jdk.internal.ed.jmod",
+      "size": 15166,
+      "hash": "rncenylIT-7p61d1bJNT2r9IazO_nm-q6qof30cMbL8C"
+    },
+    {
+      "name": "current/jmods/jdk.internal.jvmstat.jmod",
+      "size": 102421,
+      "hash": "-A6Jb8txH5wften2oBQrTPxfjByN1mCsj2TTWvzjDOAC"
+    },
+    {
+      "name": "current/jmods/jdk.internal.le.jmod",
+      "size": 422242,
+      "hash": "JHhWdE1yCiMC3hiBRZHIB8j9KI9O690c_MvJ9ihGtP0C"
+    },
+    {
+      "name": "current/jmods/jdk.internal.opt.jmod",
+      "size": 90607,
+      "hash": "XCb--h8vv1ktHgvz-TeYXDrKhziPXo5iEbIWd5JbxngC"
+    },
+    {
+      "name": "current/jmods/jdk.internal.vm.ci.jmod",
+      "size": 453254,
+      "hash": "xIPYyFFgZBkYwqrvCxW2po8i3fqg7558uO4fNvQeqF8C"
+    },
+    {
+      "name": "current/jmods/jdk.internal.vm.compiler.jmod",
+      "size": 9646,
+      "hash": "Y4hyJ7mI_Gj2834vjkiIXvQhnRcwOgfs8XVUYV1kH9MC"
+    },
+    {
+      "name": "current/jmods/jdk.internal.vm.compiler.management.jmod",
+      "size": 9653,
+      "hash": "jnJPuPuy3pmf8SlTnNTSD93lprazoTrEQIbGZwx1rLoC"
+    },
+    {
+      "name": "current/jmods/jdk.jartool.jmod",
+      "size": 267234,
+      "hash": "WvxivMkvLetiGh_qnJhNbC_CYbmZpuk6_GVd4L9WRjIC"
+    },
+    {
+      "name": "current/jmods/jdk.javadoc.jmod",
+      "size": 1385826,
+      "hash": "KBsRRPGfgtJcEZW4rzudVGLbUXRWn0_8wcLJFAldAQcC"
+    },
+    {
+      "name": "current/jmods/jdk.jcmd.jmod",
+      "size": 139450,
+      "hash": "c6iWuAi8n_KOb6dWi90aYHZCWXfnf9RQDnxwH7Qe6SkC"
+    },
+    {
+      "name": "current/jmods/jdk.jconsole.jmod",
+      "size": 477729,
+      "hash": "VIHoNJno2DWbhdfhhjpps4V2QHWmFs6dR4dlDdRdVaoC"
+    },
+    {
+      "name": "current/jmods/jdk.jdeps.jmod",
+      "size": 746433,
+      "hash": "M1fFg2rzjABHBgigDJ_F8hHmn1CSHis9unKy0tINj2YC"
+    },
+    {
+      "name": "current/jmods/jdk.jdi.jmod",
+      "size": 850246,
+      "hash": "ke6riEr-_P6UUUpJLusqIZZTgPnNDsF8VNXCwVoYOKcC"
+    },
+    {
+      "name": "current/jmods/jdk.jdwp.agent.jmod",
+      "size": 150209,
+      "hash": "GbRN8_x_nXTLk1etkHMuz8wmYIN1ak1gyxj1ZhMHMsAC"
+    },
+    {
+      "name": "current/jmods/jdk.jfr.jmod",
+      "size": 645056,
+      "hash": "QGbXl0UZzEdO4nUqwQ2DAK_KL4hOD4788oT5_9WmeE8C"
+    },
+    {
+      "name": "current/jmods/jdk.jlink.jmod",
+      "size": 417506,
+      "hash": "OP5Ub_i-Gs8EsZIdpYJxUfW8zZZEXS8gg_ez-qnp22kC"
+    },
+    {
+      "name": "current/jmods/jdk.jpackage.jmod",
+      "size": 743119,
+      "hash": "4CgVon1p5YWb50ggVS2Pv7ajPr_TK69kbWtbycFLvygC"
+    },
+    {
+      "name": "current/jmods/jdk.jshell.jmod",
+      "size": 686115,
+      "hash": "VFHkkeW-k7ORqTRUIFt6EwCRovOJppy6UyPXfyKiK_kC"
+    },
+    {
+      "name": "current/jmods/jdk.jsobject.jmod",
+      "size": 10750,
+      "hash": "0Yuu1sWSrPPNK8ITEsz1PsGc-ClxcrfxhNv27pAkyrkC"
+    },
+    {
+      "name": "current/jmods/jdk.jstatd.jmod",
+      "size": 37601,
+      "hash": "OzUbBaaEX3X0krUh_pEgC8q_nt3jQfdV2von18FSGaQC"
+    },
+    {
+      "name": "current/jmods/jdk.localedata.jmod",
+      "size": 10252484,
+      "hash": "B_qDWFqcxZ_LFIMUgEeXT4OZ7pL7HQS1wBhyA6HmWLsC"
+    },
+    {
+      "name": "current/jmods/jdk.management.agent.jmod",
+      "size": 97245,
+      "hash": "mVjO0y1tkMII9IFt-wJl_JBWjgV3meIvYxOa_Fk43wgC"
+    },
+    {
+      "name": "current/jmods/jdk.management.jfr.jmod",
+      "size": 62210,
+      "hash": "7dqv1kK0yDueV6rwM0fs7BFT1WeyjYSIx5i-t_riaDEC"
+    },
+    {
+      "name": "current/jmods/jdk.management.jmod",
+      "size": 77600,
+      "hash": "D4TqQ5JprteHYyq1cf6sRqF0IOt8Fwc7Fz9aL-DsphIC"
+    },
+    {
+      "name": "current/jmods/jdk.naming.dns.jmod",
+      "size": 69854,
+      "hash": "O3eCLdb6eQX6tHmUYlYnE-Lhra56Df7EKfHN4Uns7hgC"
+    },
+    {
+      "name": "current/jmods/jdk.naming.rmi.jmod",
+      "size": 30861,
+      "hash": "YkqbpVlxXa6FiztalcClQMWr5_nK4_tkRUS-Hep6ef8C"
+    },
+    {
+      "name": "current/jmods/jdk.net.jmod",
+      "size": 31393,
+      "hash": "3Pqe4_jZ6rSreiCLEFUFWouXZ44YxMVhIJe7hmINaJQC"
+    },
+    {
+      "name": "current/jmods/jdk.nio.mapmode.jmod",
+      "size": 10223,
+      "hash": "DznztZJ4ItGPv6Sjek821L2ZnUt_iHVh2l83lIZ4KfIC"
+    },
+    {
+      "name": "current/jmods/jdk.random.jmod",
+      "size": 29528,
+      "hash": "fsQHWHdgIKpSiu3EyNWFejn_c8W61y3nQthSyhf6XfkC"
+    },
+    {
+      "name": "current/jmods/jdk.sctp.jmod",
+      "size": 93353,
+      "hash": "9-J0m99ZkzuOwU33WeUMLYTJlGxjrsVtUR4UQDHt8tUC"
+    },
+    {
+      "name": "current/jmods/jdk.security.auth.jmod",
+      "size": 73629,
+      "hash": "AvWvobESzmRlrxu0mD5GGaSI9nyeDEaC7--QCAwEsE0C"
+    },
+    {
+      "name": "current/jmods/jdk.security.jgss.jmod",
+      "size": 32851,
+      "hash": "FPyppTAPTvwBSg2rGOMOPGsVfBvRpfDV_sLafu0XN2QC"
+    },
+    {
+      "name": "current/jmods/jdk.unsupported.desktop.jmod",
+      "size": 21629,
+      "hash": "E8xaq5q1VUiKSZGZ-8AiUsZanFVSzWB0pqJnLdzIRCUC"
+    },
+    {
+      "name": "current/jmods/jdk.unsupported.jmod",
+      "size": 24979,
+      "hash": "6w9risYzMljv0SB-6jpQ9rr5Cm9ucH4_PSk6lsS8TGkC"
+    },
+    {
+      "name": "current/jmods/jdk.xml.dom.jmod",
+      "size": 49990,
+      "hash": "JGIHLp7KcivfQ0l8OqqPZGjPXsN8S3CvzGXOayZ-WKAC"
+    },
+    {
+      "name": "current/jmods/jdk.zipfs.jmod",
+      "size": 112424,
+      "hash": "h6qvWovai3PnRqG5V1qq0rq8X0FS5wEEfbt9g_ewQJQC"
+    },
+    {
+      "name": "current/legal/java.base/ADDITIONAL_LICENSE_INFO",
+      "size": 2114,
+      "hash": "ppvOJ1uno1cK9lecsPVWgs11_t_NSeDo6QIicMRHyRYC"
+    },
+    {
+      "name": "current/legal/java.base/ASSEMBLY_EXCEPTION",
+      "size": 1522,
+      "hash": "pE63tcr1U0xu9TayHttAtNa6v5G_l9nUVZaGhhiyxvsC"
+    },
+    {
+      "name": "current/legal/java.base/LICENSE",
+      "size": 19274,
+      "hash": "S5q-vEM4BIp8LcGE6fgA3rNJNmvfKOsjwmd6d7TIdyYC"
+    },
+    {
+      "name": "current/legal/java.base/aes.md",
+      "size": 1444,
+      "hash": "RcbU2kgyXt-_89z3HHBOUEwFeQRDXtI8bVcEbVUetp0C"
+    },
+    {
+      "name": "current/legal/java.base/asm.md",
+      "size": 1584,
+      "hash": "H_kSdA6E4CRxHe9fpIL_u0bv9kVZdgxGc1Lfp8OaMwcC"
+    },
+    {
+      "name": "current/legal/java.base/c-libutl.md",
+      "size": 1556,
+      "hash": "vvQGeZItb9-35N2yI61nIjAPYFS6c3u_YYjWD87FF_kC"
+    },
+    {
+      "name": "current/legal/java.base/cldr.md",
+      "size": 9130,
+      "hash": "8r0z3tVQoF1Z6PZZQW7zgkkFBFSNhG5jiLHf_Sc6oHcC"
+    },
+    {
+      "name": "current/legal/java.base/icu.md",
+      "size": 11086,
+      "hash": "rwBX6FU5Bgg_acL7n-ntSui8I0CgseN2pCRwLwAwCykC"
+    },
+    {
+      "name": "current/legal/java.base/public_suffix.md",
+      "size": 17785,
+      "hash": "vKGCBTlGJnwfO7XRYISaaikLKu_FerxxVRgMqY24cwEC"
+    },
+    {
+      "name": "current/legal/java.base/unicode.md",
+      "size": 2384,
+      "hash": "Xk5mI6IaY_m8FupUr0EzuAOOSQwNSZp0Z2-eWmG5xbIC"
+    },
+    {
+      "name": "current/legal/java.compiler/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.compiler/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.compiler/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.datatransfer/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.datatransfer/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.desktop/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.desktop/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.desktop/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.desktop/colorimaging.md",
+      "size": 167,
+      "hash": "BNYePo5x3UUuvlIAivU3jZ9mQNFFeK61FdxTdZc7AYkC"
+    },
+    {
+      "name": "current/legal/java.desktop/giflib.md",
+      "size": 1288,
+      "hash": "yLmfM4kIh9J61W-6nt2Ou8Zoz-BokWhQWpVhPR1LMvgC"
+    },
+    {
+      "name": "current/legal/java.desktop/harfbuzz.md",
+      "size": 3094,
+      "hash": "1W2wK0aEIaiGqFmmxAPrtNITKvxaTahYtH4gamYtaSAC"
+    },
+    {
+      "name": "current/legal/java.desktop/jpeg.md",
+      "size": 3475,
+      "hash": "WAvlliFu4R4lVLJM6USXOsrt4uv1_7o0pr2MxEHAUEMC"
+    },
+    {
+      "name": "current/legal/java.desktop/lcms.md",
+      "size": 1178,
+      "hash": "QfTWPmcNdfWTaolarpGeIm9dUMVLWwnbO6TXBSosFVQC"
+    },
+    {
+      "name": "current/legal/java.desktop/libpng.md",
+      "size": 5398,
+      "hash": "-eGg5VbzMJJG0wxi7xWd5-Ids5NhF23tpvtXghyYcuwC"
+    },
+    {
+      "name": "current/legal/java.desktop/mesa3d.md",
+      "size": 5732,
+      "hash": "Y_Tm91yuu8y5XZA_tD5GrHERs2JNCjTxRrJ219nnsVIC"
+    },
+    {
+      "name": "current/legal/java.desktop/xwd.md",
+      "size": 1348,
+      "hash": "HU_6k8h_NQhLAqeqkKIQhLQBnbT-EAPC5c53W0o4T1kC"
+    },
+    {
+      "name": "current/legal/java.instrument/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.instrument/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.instrument/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.logging/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.logging/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.logging/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.management.rmi/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.management.rmi/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.management/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.management/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.management/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.naming/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.naming/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.naming/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.net.http/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.net.http/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.net.http/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.prefs/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.prefs/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.prefs/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.rmi/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.rmi/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.rmi/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.scripting/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.scripting/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.scripting/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.se/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.se/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.se/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.security.jgss/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.security.jgss/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.security.sasl/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.security.sasl/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.smartcardio/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.smartcardio/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.smartcardio/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.smartcardio/pcsclite.md",
+      "size": 1863,
+      "hash": "YAHxKWLLi-UsLQzM_Ofw94_c9JOkXt8ybgJEXbFxZkEC"
+    },
+    {
+      "name": "current/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.sql.rowset/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.sql.rowset/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.sql/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.sql/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.sql/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.transaction.xa/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.transaction.xa/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.xml.crypto/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.xml.crypto/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.xml.crypto/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.xml.crypto/santuario.md",
+      "size": 11436,
+      "hash": "bAVXTZmw1-OMYhfbVxjnui7n9xDyOl-CKOUC3P_kPnoC"
+    },
+    {
+      "name": "current/legal/java.xml/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/java.xml/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/java.xml/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/java.xml/bcel.md",
+      "size": 11195,
+      "hash": "6MKqUopaBTFILb_SPskpD82zc69noEhw54C9-YzWrcIC"
+    },
+    {
+      "name": "current/legal/java.xml/dom.md",
+      "size": 3761,
+      "hash": "Zoboh3ZnWEo6fAc0S6rcoaA-KfZ3Fi2Hw8CBHpkNEUgC"
+    },
+    {
+      "name": "current/legal/java.xml/jcup.md",
+      "size": 1448,
+      "hash": "jV3P31BFWjw0x1OpjyHpUySK8gBBWpCE4_ECy2xDuL8C"
+    },
+    {
+      "name": "current/legal/java.xml/xalan.md",
+      "size": 13494,
+      "hash": "6mcia-XP4Zx-eXJcLCShZnYyMmTWn5dHxSjeC0RUGwMC"
+    },
+    {
+      "name": "current/legal/java.xml/xerces.md",
+      "size": 11852,
+      "hash": "RyIk-Z3oM_T0wZ8vigMX8iEU4cZB9dd_-jpCgKG4AXYC"
+    },
+    {
+      "name": "current/legal/jdk.accessibility/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.accessibility/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.accessibility/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.attach/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.attach/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.attach/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.charsets/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.charsets/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.compiler/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.compiler/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.compiler/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.crypto.cryptoki/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md",
+      "size": 3923,
+      "hash": "JigC4IF2CzizdIyLGUNT00Djm8k2rCLheru3FY2JWBEC"
+    },
+    {
+      "name": "current/legal/jdk.crypto.cryptoki/pkcs11wrapper.md",
+      "size": 2131,
+      "hash": "Nxl0sfyjdEo4ksfuH8xZO4tCgfwhj0yv0vcJ6d9f2B0C"
+    },
+    {
+      "name": "current/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.crypto.ec/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.dynalink/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.dynalink/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.dynalink/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.dynalink/dynalink.md",
+      "size": 1502,
+      "hash": "FzElkcq-4-9sNO2Il9kuTjYbqc6kHsANzWGjIqj8LNsC"
+    },
+    {
+      "name": "current/legal/jdk.editpad/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.editpad/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.editpad/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.hotspot.agent/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.hotspot.agent/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.hotspot.agent/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.httpserver/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.httpserver/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.incubator.foreign/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.incubator.foreign/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.incubator.foreign/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.incubator.vector/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.incubator.vector/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.incubator.vector/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.ed/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.ed/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.ed/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.jvmstat/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.le/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.le/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.le/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.le/jline.md",
+      "size": 1579,
+      "hash": "qgbsf3hm0zAmwVF-Uy9DLjUvBjyiMTHGwaB5oPCL6Z0C"
+    },
+    {
+      "name": "current/legal/jdk.internal.opt/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.opt/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.opt/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.opt/jopt-simple.md",
+      "size": 1122,
+      "hash": "mbxn-Tz1fW0g5gR3Mck_uyZ9cPvdQRXRGeD4XG7-XAUC"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.ci/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.ci/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.ci/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler.management/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler.management/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler.management/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.internal.vm.compiler/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jartool/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jartool/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jartool/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.javadoc/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.javadoc/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.javadoc/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.javadoc/jquery.md",
+      "size": 2936,
+      "hash": "WqWg5Xa-FPTLd9nvBy8p0QRtEW4hcqR_R_4lfSEfkXwC"
+    },
+    {
+      "name": "current/legal/jdk.javadoc/jqueryUI.md",
+      "size": 1870,
+      "hash": "b7JFcxeftaOb4J5lJrvV9nQbuCxigEIa7v1dP4A7MPEC"
+    },
+    {
+      "name": "current/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jcmd/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jcmd/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jconsole/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jconsole/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jconsole/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jdeps/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jdeps/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jdeps/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jdi/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jdi/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jdi/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jdwp.agent/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jdwp.agent/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jdwp.agent/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jfr/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jfr/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jfr/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jlink/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jlink/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jlink/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jpackage/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jpackage/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jpackage/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jshell/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jshell/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jshell/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jsobject/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jsobject/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jsobject/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.jstatd/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.jstatd/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.jstatd/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.localedata/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.localedata/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.localedata/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.localedata/cldr.md",
+      "size": 0,
+      "symlink": "../java.base/cldr.md"
+    },
+    {
+      "name": "current/legal/jdk.localedata/thaidict.md",
+      "size": 1346,
+      "hash": "wyYUSiNRyWCPpwi119PFo9oD6CtmR5sSjp20lpU5gkoC"
+    },
+    {
+      "name": "current/legal/jdk.management.agent/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.management.agent/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.management.agent/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.management.jfr/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.management.jfr/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.management.jfr/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.management/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.management/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.management/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.naming.dns/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.naming.rmi/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.net/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.net/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.net/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.nio.mapmode/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.nio.mapmode/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.nio.mapmode/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.random/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.random/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.random/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.sctp/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.sctp/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.sctp/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.security.auth/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.security.auth/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.security.jgss/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.unsupported.desktop/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.unsupported/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.unsupported/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.xml.dom/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/legal/jdk.zipfs/ADDITIONAL_LICENSE_INFO",
+      "size": 0,
+      "symlink": "../java.base/ADDITIONAL_LICENSE_INFO"
+    },
+    {
+      "name": "current/legal/jdk.zipfs/ASSEMBLY_EXCEPTION",
+      "size": 0,
+      "symlink": "../java.base/ASSEMBLY_EXCEPTION"
+    },
+    {
+      "name": "current/legal/jdk.zipfs/LICENSE",
+      "size": 0,
+      "symlink": "../java.base/LICENSE"
+    },
+    {
+      "name": "current/lib/classlist",
+      "size": 71151,
+      "hash": "kOFx7IdVyfRAwgynNfg2e6xXYUN-pU3cWMCmAHSfqhgC"
+    },
+    {
+      "name": "current/lib/ct.sym",
+      "size": 8301486,
+      "hash": "7XzFnK5AV0RD5K4YEUqkKCD3W_JbffhbQ4WVl3HixvgC"
+    },
+    {
+      "name": "current/lib/jexec",
+      "size": 16584,
+      "executable": true,
+      "hash": "_GVGxUqCMNAFiNSc-tRKOcdt66y0EjExuxNywsci7SoC"
+    },
+    {
+      "name": "current/lib/jfr/default.jfc",
+      "size": 35701,
+      "hash": "zt9rbywvTk0Woziwb7d28PAJbcMtp2PCePsrp6No1vYC"
+    },
+    {
+      "name": "current/lib/jfr/profile.jfc",
+      "size": 35661,
+      "hash": "7U-JitdAauv96gnhYUCsD_mqLo9xEuhSowV_2YtJAskC"
+    },
+    {
+      "name": "current/lib/jrt-fs.jar",
+      "size": 110511,
+      "hash": "yjEHF6abWa7FNfnuPxv49RPSC_qFNw8AZciprVJpLqUC"
+    },
+    {
+      "name": "current/lib/jspawnhelper",
+      "size": 21904,
+      "executable": true,
+      "hash": "c0t-FtHiA_vKTqPLdnR2C7xa6I7xiB9l2Ve2d-v1L4MC"
+    },
+    {
+      "name": "current/lib/jvm.cfg",
+      "size": 29,
+      "hash": "qp77lpREwUhOKa3sq1WhIkWAkGFudmsvEjDvBbw4Z-AC"
+    },
+    {
+      "name": "current/lib/libattach.so",
+      "size": 16776,
+      "hash": "1sH00KgNKDVP6TsckWs-0g-qfjgNedSJGvWk4WawFykC"
+    },
+    {
+      "name": "current/lib/libawt.so",
+      "size": 871000,
+      "hash": "usJ76w5Fg_BXymNTrkUdH3NBbFTymwL1IJc9QS7HbfIC"
+    },
+    {
+      "name": "current/lib/libawt_headless.so",
+      "size": 46504,
+      "hash": "ejI_66XoXXCb7UpFZCXoFwLe3lzMWOFNezRwPLwO3jcC"
+    },
+    {
+      "name": "current/lib/libawt_xawt.so",
+      "size": 482736,
+      "hash": "CBmlx7usIM7cKeG9Rnq5whIWVNa_o1nxqKJ2tr10hCsC"
+    },
+    {
+      "name": "current/lib/libdt_socket.so",
+      "size": 35928,
+      "hash": "cCqnSsQwVfCbD_31qo4_dTcBNcwycjOG2Ngf75H0354C"
+    },
+    {
+      "name": "current/lib/libextnet.so",
+      "size": 16624,
+      "hash": "89ZRdcNU8wp4KCjcGWqWfqKk6EgNmyXDfVFiFPHPr-sC"
+    },
+    {
+      "name": "current/lib/libfontmanager.so",
+      "size": 2182120,
+      "hash": "NQinOxIhsv5zzfbsO2vyO21Ik9wkV7A0iLk-ieTMZLsC"
+    },
+    {
+      "name": "current/lib/libinstrument.so",
+      "size": 54400,
+      "hash": "qx3BatbEx2LVx1HvwTN3VTbELD3TOR6tQcyumgy2eaYC"
+    },
+    {
+      "name": "current/lib/libj2gss.so",
+      "size": 50896,
+      "hash": "xMAQeflgrZKLdxXRuq4FDrFuk9t_ZEcs4qSlTdys9JAC"
+    },
+    {
+      "name": "current/lib/libj2pcsc.so",
+      "size": 21488,
+      "hash": "et_DKYsmS6vV4R2a1l9HE9KzU0QMAzXBk6rdJxFHKMMC"
+    },
+    {
+      "name": "current/lib/libj2pkcs11.so",
+      "size": 96232,
+      "hash": "iukkmluOLMnbB9AB2xHUptWubPEJz-qeAoikKGXg8w4C"
+    },
+    {
+      "name": "current/lib/libjaas.so",
+      "size": 15616,
+      "hash": "ZDfE6cmM6x8i_QHM6LKiW2oaceQYxhFScAcWzQ5J554C"
+    },
+    {
+      "name": "current/lib/libjava.so",
+      "size": 197504,
+      "hash": "WWRWPXirBQyAjjrWrfDDdYHZNLUPrvvuQWzj6XDqRrwC"
+    },
+    {
+      "name": "current/lib/libjavajpeg.so",
+      "size": 239768,
+      "hash": "rHWXaEfFWbMIDXvAqMQPQ7W0cNIMVT2oyzsJb6CiEw0C"
+    },
+    {
+      "name": "current/lib/libjawt.so",
+      "size": 15600,
+      "hash": "n3lUv205RRKpTT2tVIrqiIuhGi-_nr0HevkcXUdBY2cC"
+    },
+    {
+      "name": "current/lib/libjdwp.so",
+      "size": 289744,
+      "hash": "Wp273oTQTKfaNs75N5UzgxfXYNeN9I7VTCTAX6zEHhAC"
+    },
+    {
+      "name": "current/lib/libjimage.so",
+      "size": 149520,
+      "hash": "weWx_mSeJE5fRa1Ks3m1H8DReyZU3QiX_S_AAmbdjEwC"
+    },
+    {
+      "name": "current/lib/libjli.so",
+      "size": 81848,
+      "hash": "oUGdbTJKTn-GBNCfS2AGrWPSoovHWGwST28c1o-w9Z8C"
+    },
+    {
+      "name": "current/lib/libjsig.so",
+      "size": 16560,
+      "hash": "LxRjXNFEQH8JYZrgkZ8pR_7fvgLbd2g9qe_eoDzl_54C"
+    },
+    {
+      "name": "current/lib/libjsound.so",
+      "size": 85368,
+      "hash": "fWojLob4HxCzUzKCM7uLVQwWimGlsgYIDL6khWbTqowC"
+    },
+    {
+      "name": "current/lib/libjsvml.so",
+      "size": 871040,
+      "hash": "Af7hNLF7n8SgkySrtTqdeUNlgv02adSVEmcR3e6hd30C"
+    },
+    {
+      "name": "current/lib/liblcms.so",
+      "size": 523048,
+      "hash": "8fJ3eEOKJJOggqXtNdBeRMk2cntwIE8zpphI8AEQ_JUC"
+    },
+    {
+      "name": "current/lib/libmanagement.so",
+      "size": 29296,
+      "hash": "OegKSEPDdMHrBFusLSlBGroF5j_M9ZWpLHbs9vkcIVkC"
+    },
+    {
+      "name": "current/lib/libmanagement_agent.so",
+      "size": 15608,
+      "hash": "8LvOkswKN6KHmHyAwHJwtCUAfG3_yM96ST8tRyPQspEC"
+    },
+    {
+      "name": "current/lib/libmanagement_ext.so",
+      "size": 37016,
+      "hash": "9hfUMYdzcLdkf7pgbMuzfWj4xfSfA_QTZ_FvL59CyqMC"
+    },
+    {
+      "name": "current/lib/libmlib_image.so",
+      "size": 606952,
+      "hash": "cPEmjECHstTY3P4qI9o19dC8axegBJ6JblK3LarwFrQC"
+    },
+    {
+      "name": "current/lib/libnet.so",
+      "size": 108848,
+      "hash": "BppxpOqSvnXKOGnDzVQtHaIOB-89l6gDRiywyKiQb4AC"
+    },
+    {
+      "name": "current/lib/libnio.so",
+      "size": 109000,
+      "hash": "tt1pvOWyzlhrGvHvSBjQcWhY3fo37NkFIdxKx3fDX_YC"
+    },
+    {
+      "name": "current/lib/libprefs.so",
+      "size": 15784,
+      "hash": "QNu2RY4i-GTGdkWPMvwFbSD0-wnm4xz94MrFFiWv34sC"
+    },
+    {
+      "name": "current/lib/librmi.so",
+      "size": 15328,
+      "hash": "Nzzmb6TZU4LP3X-K1nG7cRDacrX4FwblxpYLUw01xwwC"
+    },
+    {
+      "name": "current/lib/libsaproc.so",
+      "size": 184576,
+      "hash": "mXodBUgYI8QDC2XsPVjTDg2MXMM1RlovAYWE60kB3NgC"
+    },
+    {
+      "name": "current/lib/libsctp.so",
+      "size": 35936,
+      "hash": "A7vh6zfaL3kzr36KpltrryAj0dSVlLK-TlQ9Jc5nhaoC"
+    },
+    {
+      "name": "current/lib/libsplashscreen.so",
+      "size": 373152,
+      "hash": "t4oLSKiRx32jcuQoJtq9dMluK3GpZBDXamoNdwpiE6AC"
+    },
+    {
+      "name": "current/lib/libsyslookup.so",
+      "size": 15232,
+      "hash": "ml9aEK7b8upHqwSEUZBfY-A6ET7lAwcMEdZ7_Os8fE4C"
+    },
+    {
+      "name": "current/lib/libverify.so",
+      "size": 64336,
+      "hash": "9mz6duchd_KWtN1y4Q-QCVXmszHT7OhVv1VF-Sf7UVEC"
+    },
+    {
+      "name": "current/lib/libzip.so",
+      "size": 41152,
+      "hash": "8kb6HnUJl65cHSbCFSHCAV6Ex6XWif3P49MqPL3ISU0C"
+    },
+    {
+      "name": "current/lib/modules",
+      "size": 129545669,
+      "hash": "9YNgtrP93uVq15kQlbStfbbyrX63qkdsGBG7nX8NJfQC"
+    },
+    {
+      "name": "current/lib/psfont.properties.ja",
+      "size": 3793,
+      "hash": "WkvVG5ab8Yf_htlPSnH9-_pgJ2KXX6PHPSZLRXX3x48C"
+    },
+    {
+      "name": "current/lib/psfontj2d.properties",
+      "size": 11390,
+      "hash": "eAxWXVrz7m9ouIe3XAQc30agWS9nAS8S7raRKD6SYwoC"
+    },
+    {
+      "name": "current/lib/security/blocked.certs",
+      "size": 2488,
+      "hash": "llcvJD8xwu-BpuYnVC5Zb2qSlc_zx64JXBtZXLFFfe0C"
+    },
+    {
+      "name": "current/lib/security/cacerts",
+      "size": 164386,
+      "hash": "-iJJHkAsjoDxn_E52ILoY6djCQSD2df-bAzb8FJtZbgC"
+    },
+    {
+      "name": "current/lib/security/default.policy",
+      "size": 10012,
+      "hash": "qYRP9RPM5gQcVxp-kUwWD6ytCGyinHHNi9STV7gNXbUC"
+    },
+    {
+      "name": "current/lib/security/public_suffix_list.dat",
+      "size": 232158,
+      "hash": "DlR0NwJUGfhcWENwIRmnzm1crXvwObirVJlRTUWZ0OQC"
+    },
+    {
+      "name": "current/lib/server/classes.jsa",
+      "size": 13656064,
+      "hash": "uRr8NVw0rCbe08fTCxpRtvoH3CQAb4QEjoJr6ajv8vcC"
+    },
+    {
+      "name": "current/lib/server/classes_nocoops.jsa",
+      "size": 12427264,
+      "hash": "HJdv7B4XqwDOoaEIrx4UNm2XnmMCuVpZsyH_x0LIfbAC"
+    },
+    {
+      "name": "current/lib/server/libjsig.so",
+      "size": 16560,
+      "hash": "LxRjXNFEQH8JYZrgkZ8pR_7fvgLbd2g9qe_eoDzl_54C"
+    },
+    {
+      "name": "current/lib/server/libjvm.so",
+      "size": 23985000,
+      "hash": "6cpK7C-N1GWC8Iz2_KvFTSLlG4KqVpuy4P1nGyoU7MoC"
+    },
+    {
+      "name": "current/lib/src.zip",
+      "size": 51238379,
+      "hash": "Z7rM3Y3PSADrVuVBHvb0_YGXvKtRTLJAigo5_34EkQsC"
+    },
+    {
+      "name": "current/lib/tzdb.dat",
+      "size": 102619,
+      "hash": "HQAOuIuR3QY-5GllaLAxuzGLotZZrMCL-BwFuPZJzIgC"
+    },
+    {
+      "name": "current/man/man1/jar.1",
+      "size": 11665,
+      "hash": "ZYUzjZQl2iWTf8Bu---TIWOxM1gbig0-Rb6BkQ6Xr8MC"
+    },
+    {
+      "name": "current/man/man1/jarsigner.1",
+      "size": 55947,
+      "hash": "27f4UVEvixgXcznjH00aoKGr_xL3GQqp0wJaKF-zSn4C"
+    },
+    {
+      "name": "current/man/man1/java.1",
+      "size": 188239,
+      "hash": "JnKg3NL5UYrDm9wVnH5J1PzunHwkKvSiwFp64j4BDWEC"
+    },
+    {
+      "name": "current/man/man1/javac.1",
+      "size": 85114,
+      "hash": "S3gheJDowDl_rII-xTPm9eu58u2JBaa2qQxXAFXJq2cC"
+    },
+    {
+      "name": "current/man/man1/javadoc.1",
+      "size": 46623,
+      "hash": "3YeBqmvxNENapiKD7mc6SXkBc2QiC0xw-eMtOAHvitMC"
+    },
+    {
+      "name": "current/man/man1/javap.1",
+      "size": 7816,
+      "hash": "wygpJ-tII8Pao9lzXZbjkyU4Zmj9l1SdAJhIJXyoUrUC"
+    },
+    {
+      "name": "current/man/man1/jcmd.1",
+      "size": 35306,
+      "hash": "q23Wo29Y_YvU_uH8yfl7SoPhTLVlHavN2DDQiDExbNEC"
+    },
+    {
+      "name": "current/man/man1/jconsole.1",
+      "size": 3670,
+      "hash": "YcLafru37rzd2w3n2ikEQMWfCPabzCsXpUjsTM-HNwIC"
+    },
+    {
+      "name": "current/man/man1/jdb.1",
+      "size": 8902,
+      "hash": "Ezp5zGU0yGM7hGAzOYazyTy_1zoEZlFqqIx17nV21zUC"
+    },
+    {
+      "name": "current/man/man1/jdeprscan.1",
+      "size": 8143,
+      "hash": "glrHrs8vL0NATDaTMVvd6MYRhXCIDq6kz7HjOWMNN4QC"
+    },
+    {
+      "name": "current/man/man1/jdeps.1",
+      "size": 12251,
+      "hash": "Du7lX84w4FElJkKHPpKAEK_YzeJmbB3s3gWBWSabA34C"
+    },
+    {
+      "name": "current/man/man1/jfr.1",
+      "size": 9032,
+      "hash": "UPk2B0_5H2lQFIBTDRwzSYJ9kfk46pOoOeNQ3b8PzoAC"
+    },
+    {
+      "name": "current/man/man1/jhsdb.1",
+      "size": 7342,
+      "hash": "qQ3I50iTCRIrJWXpSZfq-Oufsn4pWwPBqE2pLOXTwKcC"
+    },
+    {
+      "name": "current/man/man1/jinfo.1",
+      "size": 3501,
+      "hash": "vd3TBCpFF_7zImR_ILghnUqp53Qz3ntd-zXKU97ZE50C"
+    },
+    {
+      "name": "current/man/man1/jlink.1",
+      "size": 11942,
+      "hash": "3KmvYkDBNLUdMfsM31ONMPAHqkTBWqaZKDg9ndMJHIAC"
+    },
+    {
+      "name": "current/man/man1/jmap.1",
+      "size": 3490,
+      "hash": "HjHBwwiq3dOC-fHR6dAaNGvF48TUVVf0imE5X-jomhEC"
+    },
+    {
+      "name": "current/man/man1/jmod.1",
+      "size": 12114,
+      "hash": "MXfklXIEMS6UEFwW3KMl7NnrYw9lJ3QOJyBojP2sMYkC"
+    },
+    {
+      "name": "current/man/man1/jpackage.1",
+      "size": 14800,
+      "hash": "jILyq-RwwRhi4mASnmhmiCCyE85tOkOHl4C9LHgJSTMC"
+    },
+    {
+      "name": "current/man/man1/jps.1",
+      "size": 8458,
+      "hash": "PC74EECGLe7VFdOMNfg_N409bS0-XRhl_nAd62tuOKgC"
+    },
+    {
+      "name": "current/man/man1/jrunscript.1",
+      "size": 5281,
+      "hash": "lB2u1oNfeW9AyDHgJa9G58K_zODRgAM7bS61tBOg6DAC"
+    },
+    {
+      "name": "current/man/man1/jshell.1",
+      "size": 43679,
+      "hash": "OMz9Z-jr6785ehW4MV16DAA6H9ZxB949qSAaEZiQHIkC"
+    },
+    {
+      "name": "current/man/man1/jstack.1",
+      "size": 3050,
+      "hash": "ya_DwxpyFDE4p2brzq5B_B9eJgdhyAsJYWZsjy11RwIC"
+    },
+    {
+      "name": "current/man/man1/jstat.1",
+      "size": 24104,
+      "hash": "i3oR0TrrNnLbXwlwOUaQL3ruJbI3dq5LWmeihlJc9QUC"
+    },
+    {
+      "name": "current/man/man1/jstatd.1",
+      "size": 7877,
+      "hash": "LCHfyNEGJ65okIkTFA1VvaHzZrsipor14jmYs1PrAtMC"
+    },
+    {
+      "name": "current/man/man1/keytool.1",
+      "size": 111869,
+      "hash": "RzrEpgYjxF5aSPuyvPcHW1gTtob4WeGrkDTXX60hc3oC"
+    },
+    {
+      "name": "current/man/man1/rmiregistry.1",
+      "size": 3258,
+      "hash": "TTFB1BfWR_mArZAadF-JhCdbZNZilZC1izEHcG8-MCUC"
+    },
+    {
+      "name": "current/man/man1/serialver.1",
+      "size": 2913,
+      "hash": "kfxxFaU3mJcMFFq_x6dG4xxBIfSa3M5Xr2BRw7GQmaYC"
+    },
+    {
+      "name": "current/release",
+      "size": 1593,
+      "hash": "n0QtOx0UY5EDNdzXoIGl_cu544I-uGeuraPBrG_q8jcC"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+
+Running test: testEnabled
+Tests that Preload.ruleSetUpdated and Preload.ruleSetDeleted are dispatched.
+{
+    method : Preload.ruleSetUpdated
+    params : {
+        ruleSet : {
+            id : <string>
+            loaderId : <string>
+            sourceText : {
+                prefetch : [
+                    [0] : {
+                        source : list
+                        urls : [
+                            [0] : /subresource.js
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+    sessionId : <string>
+}
+{
+    method : Preload.ruleSetUpdated
+    params : {
+        ruleSet : {
+            id : <string>
+            loaderId : <string>
+            sourceText : {
+                prerender : [
+                    [0] : {
+                        source : list
+                        urls : [
+                            [0] : /page.html
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+    sessionId : <string>
+}
+{
+    method : Preload.ruleSetUpdated
+    params : {
+        ruleSet : {
+            errorMessage : Line: 4, column: 7, Syntax error.
+            errorType : SourceIsNotJsonObject
+            id : <string>
+            loaderId : <string>
+            sourceText : {"prefetch":[
+        }
+    }
+    sessionId : <string>
+}
+{
+    method : Preload.ruleSetUpdated
+    params : {
+        ruleSet : {
+            errorMessage : Parsed JSON must be an object.
+            errorType : SourceIsNotJsonObject
+            id : <string>
+            loaderId : <string>
+            sourceText : "invalid"
+        }
+    }
+    sessionId : <string>
+}
+{
+    method : Preload.ruleSetUpdated
+    params : {
+        ruleSet : {
+            errorMessage : A rule set for a key must be an array: path = ["prerender"]
+            errorType : InvalidRulesSkipped
+            id : <string>
+            loaderId : <string>
+            sourceText : {"prefetch":[{"source":"list","urls":["/subresource.js"]}],"prerender":"invalid"}
+        }
+    }
+    sessionId : <string>
+}
+{
+    method : Preload.ruleSetRemoved
+    params : {
+        id : <string>
+    }
+    sessionId : <string>
+}
+
+Running test: testDisabled
+Tests that Preload.ruleSetUpdated and Preload.ruleSetDeleted are not dispatched.
+

@@ -1,0 +1,88 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/android_webview/tools/cts_archive",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "arm64/M/android-cts-arm64-6.0_r32.zip",
+      "size": 2208234,
+      "hash": "mf4XcH7a12V6MvrUGGFQcOH14EN101aNt3ik0YZ7AYUC"
+    },
+    {
+      "name": "arm64/N/android-cts-arm64-7.0_r33.zip",
+      "size": 6548514,
+      "hash": "ejgmxlNRR_EVuxcbfhOIPQEh3FgqzeAxKAMddc1BbAIC"
+    },
+    {
+      "name": "arm64/O/android-cts-arm64-8.0_r26.zip",
+      "size": 11348420,
+      "hash": "U28CQ8CMVSbfnBfU9mO7f5JLYM-K0Ba-xuwkA-HCjWAC"
+    },
+    {
+      "name": "arm64/P/android-cts-arm64-9.0_r20.zip",
+      "size": 9712043,
+      "hash": "MPFB2UpHe-IU1W1iaMadT8d01nsXwnKTghev5nexn7YC"
+    },
+    {
+      "name": "arm64/Q/android-cts-arm64-10_r15.zip",
+      "size": 12548926,
+      "hash": "B1YSw16OTM247156b1PiczsjoGAaYlSelQTlcCh6m5AC"
+    },
+    {
+      "name": "arm64/R/android-cts-arm64-11_r11.zip",
+      "size": 26339533,
+      "hash": "WWyB0pHrB10YzJ2K-tZN8L4jTldm8jRUqwJviT62ztMC"
+    },
+    {
+      "name": "arm64/S/android-cts-arm64-12_r7.zip",
+      "size": 29864499,
+      "hash": "vd0t872o7bCXMbH8ue6B57GCMyQa2rxlfy-zBeADdJ8C"
+    },
+    {
+      "name": "arm64/T/android-cts-arm64-13_r3.zip",
+      "size": 27102850,
+      "hash": "tCUC9Ns6fdPXzZa8Lo1WWspxjORGeLR5D9FxnM6HKagC"
+    },
+    {
+      "name": "x86/M/android-cts-x86-6.0_r32.zip",
+      "size": 2208234,
+      "hash": "9QeRJvvHTc-BjnmIj5b8Vt5OFftJ2Z2oqtKamePfJiAC"
+    },
+    {
+      "name": "x86/N/android-cts-x86-7.0_r33.zip",
+      "size": 6548514,
+      "hash": "Blt4YbZKGS4CaS3rqnuN4PvpLqI1ruxYkEQWtAI7qv4C"
+    },
+    {
+      "name": "x86/O/android-cts-x86-8.0_r26.zip",
+      "size": 11348899,
+      "hash": "RuqE8WBsI9c_aah0uPEhHoSsADu0-4Bo9nkBisHUaY4C"
+    },
+    {
+      "name": "x86/P/android-cts-x86-9.0_r20.zip",
+      "size": 9712043,
+      "hash": "9a1R2uTT-kZVHVFqzM7N4oiE2OMZnfR1Oan6GbK2px4C"
+    },
+    {
+      "name": "x86/Q/android-cts-x86-10_r15.zip",
+      "size": 12548926,
+      "hash": "L552hYZ1GR20m0f9cPrBvG9vKPANbYP2VgdEkn9VfQ0C"
+    },
+    {
+      "name": "x86/R/android-cts-x86-11_r11.zip",
+      "size": 26368216,
+      "hash": "s6tw5AgnFuVqrh7U9LDGaFQCCXu15lbrswoezacm2pIC"
+    },
+    {
+      "name": "x86/S/android-cts-x86-12_r7.zip",
+      "size": 29863848,
+      "hash": "OHBkEqlxJmR74ojTlNE_6osiOFtbMLtoPDqIn-McOJoC"
+    },
+    {
+      "name": "x86/T/android-cts-x86-13_r3.zip",
+      "size": 27102407,
+      "hash": "jEsBcYKWWqL-P8KPIbNMhTekKHw6Z_gTPwhBkV88xbkC"
+    }
+  ]
+}

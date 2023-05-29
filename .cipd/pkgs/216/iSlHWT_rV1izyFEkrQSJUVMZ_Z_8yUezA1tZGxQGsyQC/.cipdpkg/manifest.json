@@ -1,0 +1,14 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/updater/chrome_linux64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "updater_test",
+      "size": 216831216,
+      "executable": true,
+      "hash": "egV4jpAkQkk6rt-h2zKXNlRkjC3rZ9qX27zOhRUW7O0C"
+    }
+  ]
+}

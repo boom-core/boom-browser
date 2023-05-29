@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_android_gms_play_services_base",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "play-services-base-18.0.1.aar",
+      "size": 548703,
+      "hash": "KJbXb0Mr5SFnKVu5zkWt4lwxCu_8BNKM-NtqFYaOg94C"
+    }
+  ]
+}

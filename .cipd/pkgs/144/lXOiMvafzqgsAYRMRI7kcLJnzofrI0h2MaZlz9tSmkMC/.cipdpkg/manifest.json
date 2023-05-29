@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/org_jetbrains_kotlin_kotlin_stdlib_jdk8",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "kotlin-stdlib-jdk8-1.8.0.jar",
+      "size": 968,
+      "hash": "BbYoBEQbDJoZILa31c9zKaTiS2JYR44ysfBGygGQCUYC"
+    }
+  ]
+}

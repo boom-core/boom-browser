@@ -1,0 +1,100 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_sdk/public/platform-tools",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "platform-tools/NOTICE.txt",
+      "size": 1076396,
+      "hash": "tmBoRYr28oW973CWhPyyEEbujIfMdXOzZr04o3-ORAwC"
+    },
+    {
+      "name": "platform-tools/adb",
+      "size": 8092680,
+      "executable": true,
+      "hash": "XDXdjUzEJnMVch3XIQY4GpcExzpRA76stn5medyfpQ4C"
+    },
+    {
+      "name": "platform-tools/dmtracedump",
+      "size": 56824,
+      "executable": true,
+      "hash": "VICej3-oJts8RPANTACP9_5pciE03GRV66KMa99tw5wC"
+    },
+    {
+      "name": "platform-tools/e2fsdroid",
+      "size": 1642864,
+      "executable": true,
+      "hash": "qYO1PzF8dP5QHqCsnsiwOmAZaGjDIa9ohb-XGZlH564C"
+    },
+    {
+      "name": "platform-tools/etc1tool",
+      "size": 302944,
+      "executable": true,
+      "hash": "gap4Jgg4Brw8cSj0vZVcLmQsMyKgAEZV7VEt7-G-JNoC"
+    },
+    {
+      "name": "platform-tools/fastboot",
+      "size": 2233616,
+      "executable": true,
+      "hash": "KY1ksjyIoOTRehRuLIG0wzZ7qsxogL_Qp9zQRzI3JpMC"
+    },
+    {
+      "name": "platform-tools/hprof-conv",
+      "size": 12848,
+      "executable": true,
+      "hash": "q4voNZP99vhiZHcNO2TDLc60GRuKRiRoZgeCR6ND9jkC"
+    },
+    {
+      "name": "platform-tools/lib64/libc++.so",
+      "size": 1078808,
+      "executable": true,
+      "hash": "lt5eKeYqPjq5WB5RIhAOIgVfG4I68CYSX3lcujXhkroC"
+    },
+    {
+      "name": "platform-tools/make_f2fs",
+      "size": 259840,
+      "executable": true,
+      "hash": "eOdMEvC2GpLgd_5h5iYG_Xxaelom0eiBEVFqxAj6_FwC"
+    },
+    {
+      "name": "platform-tools/make_f2fs_casefold",
+      "size": 259824,
+      "executable": true,
+      "hash": "sSqzhHG_JZiiwK8dq7w2yY95r9KBKCNHnt0gXfWR3aEC"
+    },
+    {
+      "name": "platform-tools/mke2fs",
+      "size": 878112,
+      "executable": true,
+      "hash": "YMlmMGetEDKVi7qfxQCkUN-BJS9oAP0ocx9RUn20Oa8C"
+    },
+    {
+      "name": "platform-tools/mke2fs.conf",
+      "size": 1157,
+      "hash": "rViljc3STYUFWBTKnKxn24nU5nxDTpZ3S9zg0KAH0GcC"
+    },
+    {
+      "name": "platform-tools/package.xml",
+      "size": 18335,
+      "hash": "U0Z7o_S7GjLuLAmKGIg08VtB32lZoaAoP3D1jZ-lMwIC"
+    },
+    {
+      "name": "platform-tools/sload_f2fs",
+      "size": 1698864,
+      "executable": true,
+      "hash": "rlFeeClxG1yO-6i0Wyn24jfTsEA76swpnS4eRAx6dJ0C"
+    },
+    {
+      "name": "platform-tools/source.properties",
+      "size": 37,
+      "hash": "NmJ4R9SLy46yTd5Fu3_wIEQ5Ix-ZuqLJwXs-2BlieIwC"
+    },
+    {
+      "name": "platform-tools/sqlite3",
+      "size": 1319240,
+      "executable": true,
+      "hash": "f34q5lFPf23_BVe02GGyZtYpl36Yw5FN7TswWiJ2NEUC"
+    }
+  ]
+}

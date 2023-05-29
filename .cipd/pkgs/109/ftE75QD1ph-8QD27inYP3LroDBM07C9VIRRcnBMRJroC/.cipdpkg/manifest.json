@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/android_deps/libs/com_google_guava_guava",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "guava-31.0.1-jre.jar",
+      "size": 2974216,
+      "hash": "1b6U1l6HvSGfsxk60VF7qlWjuI_JHSHPc1gmq1rwh7kC"
+    }
+  ]
+}
