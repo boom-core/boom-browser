@@ -1,0 +1,15 @@
+#00 pc 0x0000000004049323 /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #01 pc 0x0000000002da8e7f /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #02 pc 0x0000000002da86af /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #03 pc 0x0000000002d5fd57 /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #04 pc 0x0000000002e8cb8b /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #05 pc 0x0000000002d7095b /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #06 pc 0x00000000020dac0f /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #07 pc 0x000000000310db37 /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #08 pc 0x0000000003ff5f9f /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #09 pc 0x000000000400802f /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #10 pc 0x000000000403d9cf /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #11 pc 0x000000000403d6e7 /data/app/org.chromium.chrome-_f-UY6o2aUk9DkKWvclg3Q==/lib/arm64/libchrome.so
+    #12 pc 0x0000000000009d57 /system/lib64/libutils.so
+    #13 pc 0x000000000000995f /system/lib64/libutils.so
+    #14 pc 0x0000000000077c4f /system/lib64/libandroid_runtime.so
